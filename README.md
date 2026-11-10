@@ -174,3 +174,6 @@ O resultado é uma API funcional de gerenciamento de filmes, que permite realiza
 ---
 
 **Projeto desenvolvido como atividade prática de Node.js e MongoDB.**
+
+## Link do Deploy
+https://api-flimes.onrender.com
